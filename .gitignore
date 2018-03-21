@@ -1,0 +1,34 @@
+# Archivos .class
+*.class
+
+# Log
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Archivos Empaquetados
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# VMCL
+hs_err_pid*
+
+# Maven 
+target/
+
+# IDEs
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+.recommenders
